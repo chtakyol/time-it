@@ -1,5 +1,5 @@
 # Time It
-<p>Time It is an android applicaiton that you can save event date and create alarm.</p>
+<p>Time It is an android applicaiton that you can save event date and creates alarms.</p>
 
 <p>This app mainly apply clean archs with simple local CRUD operation with room.</p>
 
